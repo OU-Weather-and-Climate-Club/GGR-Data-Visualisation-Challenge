@@ -53,7 +53,7 @@ revenue globally, and multi-billions in the UK, within two decades. This is an u
 p5, https://co2re.org/wp-content/uploads/2024/06/Final-Text-Artists-Arts-and-Humanities-Initiative-27062024.pdf
 
 ***
-## Current initiatives supporting collaboration between the arts and scientists 
+## Current initiatives supporting collaboration between the arts and climate science 
 
 - https://co2re.org/community/funding-opportunity-an-invitation-to-artists-and-creatives/
 
