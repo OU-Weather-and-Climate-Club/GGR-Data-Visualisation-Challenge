@@ -28,6 +28,8 @@ Submissions from beginners are just as welcome as submissions from more experien
 
 If you are a beginner you will inspire other beginners and learn in a supportive environment 🙂 
 
+To help you get started you can find more info and resources in our [wiki](https://github.com/OU-Weather-and-Climate-Club/GGR-Data-Visualisation-Challenge/wiki).
+
 ***
 ## CO2RE and the importance of GGR
 
