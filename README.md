@@ -28,7 +28,7 @@ Submissions from beginners are just as welcome as submissions from more experien
 
 If you are a beginner you will inspire other beginners and learn in a supportive environment 🙂 
 
-To help you get started you can find more info and resources in our [wiki](https://github.com/OU-Weather-and-Climate-Club/GGR-Data-Visualisation-Challenge/wiki).
+To help you get started you can find more info and resources in our [wiki](https://github.com/OU-Weather-and-Climate-Club/GGR-Data-Visualisation-Challenge/wiki), where you will find a road map and pages exploring each of the possible topics. 
 
 ***
 ## CO2RE and the importance of GGR
@@ -55,22 +55,72 @@ revenue globally, and multi-billions in the UK, within two decades. This is an u
 p5, https://co2re.org/wp-content/uploads/2024/06/Final-Text-Artists-Arts-and-Humanities-Initiative-27062024.pdf
 
 ***
-## Current initiatives supporting collaboration between the arts and climate science 
+## Encouraging collaboration between the arts and climate science via Story Maps
 
-- https://co2re.org/community/funding-opportunity-an-invitation-to-artists-and-creatives/
+We are really interested in supporting students feature their visualisations in a story map, sometimes also known as a scrollytelling article. 
 
-- https://www.bbc.co.uk/academy/events/climate-creatives-2024/
+Story maps combine maps, narrative text, images and multimedia into interactive, visual narratives. Story maps are particularly good at communicating scientific data to a citizen audience and creating personalised storytelling through user interaction. You can find some examples of story maps in the gallery below and on our topic wiki pages!  
+
+Story maps would be a brilliant way to create the opportunity for group work with the OU digital arts community, and get students learning from each other the skills of being better communicators.
+
 
 ***
 
-## Resources for Data Storytelling
+## Getting started using story maps
 
-Available through the OU Library:
+- NOAA Story Map Inspiration Gallery:
+
+  [https://noaa.maps.arcgis.com/apps/MinimalGallery/index.html?appid=e02942a8cdeb45348c69184539a7e705](https://noaa.maps.arcgis.com/apps/MinimalGallery/index.html?appid=e02942a8cdeb45348c69184539a7e705)
+
+- [StoryMapJs](https://storymap.knightlab.com/) is a free browser-based easy to use tool for creating story maps
+
+For a tutorial to help you get started the Digital Humanities Initiative has created this very comprehensive tutorial: [DH Tool Refresher: StoryMapJs](https://youtu.be/YQ-W28Wq5LU?si=U9B1T2XyWCPFvYWo)
+
+***
+
+## Further Resources on Data Storytelling
 
 - Knaflic, C.N. (2020) Storytelling with data : let’s practice! 1st edition. Hoboken, New Jersey: John Wiley & Sons, Inc.
-  https://library-search.open.ac.uk/permalink/44OPN_INST/la9sg5/alma9952700013302316
+  
+  [https://library-search.open.ac.uk/permalink/44OPN_INST/la9sg5/alma9952700013302316](https://library-search.open.ac.uk/permalink/44OPN_INST/la9sg5/alma9952700013302316)
 
 
  - Dykes, B. (2020) Effective Data Storytelling - How to Drive Change with Data, Narrative, and Visuals. 1st edition. Newark: John Wiley & Sons.
-https://library-search.open.ac.uk/permalink/44OPN_INST/j6vapu/cdi_skillsoft_books24x7_bkb000151176
+[https://library-search.open.ac.uk/permalink/44OPN_INST/j6vapu/cdi_skillsoft_books24x7_bkb000151176](https://library-search.open.ac.uk/permalink/44OPN_INST/j6vapu/cdi_skillsoft_books24x7_bkb000151176)
+
+***
+
+## Celebrating the challenge and students' work on designated days of awareness
+
+Since a lot of the topics are connected to restoring ecosystems to be healthy carbon sinks, which have special days of awareness (mainly in the summer) we could do write ups showcasing visualisations and story maps on those days. 
+
+Here are some possible dates, with some topics offering more choice than others!
+
+Topic: **Peatlands**
+Bog Day, 4th Sunday of July 
+
+Topic: **Oceans**
+World Seagrass Day, 1st March 2025
+International Mud Day, 26th June 2025
+UN Mangrove Day, 26th July 2025
+World Oceans Day, 8th June
+
+Topic: **Woodlands**
+International Day of Forests, 21st March 2025
+
+Topic: **Basalt**
+International Rock Day, 13th July 2025
+
+Topic:**Agriculture**
+World Soil Day, 5th December 2024
+World Agriculture Day, 20th March 2025
+
+Topic:**Direct Air Capture**
+
+it turns out there isn't an International Direct C02 Air Capture Day, but maybe these might work
+
+UN World Environment Day, 5th June 2025
+Earth Day, 22nd April 2025
+
+***
   
