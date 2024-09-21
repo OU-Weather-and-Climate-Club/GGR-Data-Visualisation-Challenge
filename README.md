@@ -106,7 +106,7 @@ For a tutorial to help you get started, the Digital Humanities Initiative has cr
 
 ***
 
-## Celebrating the club challenge and students' work on designated days of awareness
+## Celebrating the club challenge and students' work 
 
 Since a lot of the topics are connected to restoring ecosystems to be healthy carbon sinks, which have special days of awareness (mainly in the summer) we could do write ups showcasing visualisations and story maps on those days. 
 
