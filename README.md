@@ -86,12 +86,11 @@ Story maps would be a brilliant way to create the opportunity for group work wit
 
 ## Getting started using story maps
 
-- NOAA Story Map Inspiration Gallery:
- [https://noaa.maps.arcgis.com/apps/MinimalGallery/index.html?appid=e02942a8cdeb45348c69184539a7e705](https://noaa.maps.arcgis.com/apps/MinimalGallery/index.html?appid=e02942a8cdeb45348c69184539a7e705)
+- [NOAA Story Map Inspiration Gallery](https://noaa.maps.arcgis.com/apps/MinimalGallery/index.html?appid=e02942a8cdeb45348c69184539a7e705)
 
-- [StoryMapJs](https://storymap.knightlab.com/) is a free browser-based easy to use tool for creating story maps
+- [StoryMapJs](https://storymap.knightlab.com/) is a free browser-based easy to use tool for creating story maps:
 
-For a tutorial to help you get started the Digital Humanities Initiative has created this very comprehensive tutorial: [DH Tool Refresher: StoryMapJs](https://youtu.be/YQ-W28Wq5LU?si=U9B1T2XyWCPFvYWo)
+For a tutorial to help you get started, the Digital Humanities Initiative has created this very comprehensive tutorial: [DH Tool Refresher: StoryMapJs](https://youtu.be/YQ-W28Wq5LU?si=U9B1T2XyWCPFvYWo)
 
 ***
 
@@ -111,7 +110,7 @@ For a tutorial to help you get started the Digital Humanities Initiative has cre
 
 Since a lot of the topics are connected to restoring ecosystems to be healthy carbon sinks, which have special days of awareness (mainly in the summer) we could do write ups showcasing visualisations and story maps on those days. 
 
-Here are some possible dates, with some topics offering more choice than others
+Here are some possible dates (with some topics offering more choice than others):
 
 Topic: **Peatlands**
 - Bog Day, 4th Sunday of July 
@@ -134,7 +133,7 @@ Topic:**Agriculture**
 
 Topic:**Direct Air Capture**
 
-it turns out there isn't an International Direct C02 Air Capture Day, but maybe these might work
+it turns out there isn't an International Direct C02 Air Capture Day! but maybe these might work
 
 - UN World Environment Day, 5th June 2025
 - Earth Day, 22nd April 2025
