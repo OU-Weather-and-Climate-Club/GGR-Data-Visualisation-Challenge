@@ -84,7 +84,7 @@ Story maps would be a brilliant way to create the opportunity for group work wit
 
 ***
 
-## Getting started using story maps
+## Getting started using Story Maps
 
 - [NOAA Story Map Inspiration Gallery](https://noaa.maps.arcgis.com/apps/MinimalGallery/index.html?appid=e02942a8cdeb45348c69184539a7e705)
 
@@ -106,7 +106,7 @@ For a tutorial to help you get started, the Digital Humanities Initiative has cr
 
 ***
 
-## Celebrating the challenge and students' work on designated days of awareness
+## Celebrating the club challenge and students' work on designated days of awareness
 
 Since a lot of the topics are connected to restoring ecosystems to be healthy carbon sinks, which have special days of awareness (mainly in the summer) we could do write ups showcasing visualisations and story maps on those days. 
 
