@@ -34,7 +34,7 @@ To help you get started you can find more info and resources in our [wiki](https
 
 - CO2RE is the UK’s national multidisciplinary research hub on Greenhouse Gas Removal (GGR): [Introducing CO2RE, The Greenhouse Gas Removal Hub](https://youtu.be/SyjNxKmq8cE?si=nNH0v-LOdKVBYttE) (2 min video)
 
-The documentation for this recent CO2RE initiative funding creative projects on GRR communication helps answer the following questions: 
+The documentation for a recent CO2RE initiative funding creative projects on GRR communication helps answer the following questions: 
 
 **Why is GGR important?** 
 
