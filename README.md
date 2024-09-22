@@ -92,7 +92,9 @@ If you've never seen a story map, this gallery will give you a good sense of the
 
 - [StoryMapJs](https://storymap.knightlab.com/) is a free browser-based easy-to-use tool for creating story maps.
 
-For a tutorial to help you get started, the Digital Humanities Initiative has created this very comprehensive tutorial: [DH Tool Refresher: StoryMapJs](https://youtu.be/YQ-W28Wq5LU?si=U9B1T2XyWCPFvYWo)
+For a tutorial to help you get started, the Digital Humanities Initiative has created this very comprehensive tutorial: 
+
+- [DH Tool Refresher: StoryMapJs](https://youtu.be/YQ-W28Wq5LU?si=U9B1T2XyWCPFvYWo)
 
 ***
 
