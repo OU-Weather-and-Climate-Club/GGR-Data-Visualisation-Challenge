@@ -27,7 +27,7 @@ Submissions from beginners are just as welcome as submissions from more experien
 
 If you are a beginner you will inspire other beginners and learn in a supportive environment 🙂 
 
-To help you get started you can find more info and resources in our [wiki](https://github.com/OU-Weather-and-Climate-Club/GGR-Data-Visualisation-Challenge/wiki), where you will find a road map and pages exploring each of the possible topics. Also see below for using story maps to share the message of your visualisation.
+To help you get started you can find more info and resources in our [wiki](https://github.com/OU-Weather-and-Climate-Club/GGR-Data-Visualisation-Challenge/wiki), where you will find a road map and pages exploring each of the possible topics. Also see below for more on using story maps to share the message of your visualisation.
 
 ***
 ## CO2RE and the importance of GGR
