@@ -84,7 +84,9 @@ Story maps would be a brilliant way to create the opportunity for group work wit
 
 ***
 
-## Getting started using Story Maps
+## Getting started using story maps
+
+If you've never seen a story map, this gallery will give you a good sense of the possibilities:
 
 - [NOAA Story Map Inspiration Gallery](https://noaa.maps.arcgis.com/apps/MinimalGallery/index.html?appid=e02942a8cdeb45348c69184539a7e705)
 
