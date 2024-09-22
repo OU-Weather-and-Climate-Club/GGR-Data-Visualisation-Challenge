@@ -131,11 +131,11 @@ Topic: **Woodlands**
 Topic: **Basalt**
 - International Rock Day, 13th July 2025
 
-Topic:**Agriculture**
+Topic: **Agriculture**
 - World Soil Day, 5th December 2024
 - World Agriculture Day, 20th March 2025
 
-Topic:**Direct Air Capture**
+Topic: **Direct Air Capture**
 
 it turns out there isn't an International Direct C02 Air Capture Day! but maybe these might work
 
