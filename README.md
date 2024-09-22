@@ -90,7 +90,7 @@ If you've never seen a story map, this gallery will give you a good sense of the
 
 - [NOAA Story Map Inspiration Gallery](https://noaa.maps.arcgis.com/apps/MinimalGallery/index.html?appid=e02942a8cdeb45348c69184539a7e705)
 
-- [StoryMapJs](https://storymap.knightlab.com/) is a free browser-based easy to use tool for creating story maps:
+- [StoryMapJs](https://storymap.knightlab.com/) is a free browser-based easy-to-use tool for creating story maps.
 
 For a tutorial to help you get started, the Digital Humanities Initiative has created this very comprehensive tutorial: [DH Tool Refresher: StoryMapJs](https://youtu.be/YQ-W28Wq5LU?si=U9B1T2XyWCPFvYWo)
 
