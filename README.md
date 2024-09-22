@@ -79,7 +79,7 @@ We are really interested in supporting students feature their visualisations in 
 
 Story maps combine maps, narrative text, images and multimedia into interactive, visual narratives. Story maps are particularly good at communicating scientific data to a citizen audience and creating personalised storytelling through user interaction. You can find some examples of story maps in the gallery below and on our topic wiki pages.  
 
-Story maps would be a brilliant way to work in groups with the OU digital arts community, and getting students learning from each other across disciplines the skills of being better scientific communicators.
+Story maps would be a brilliant way to work with the OU digital arts community, and get students learning from each other across disciplines the skills of being better scientific communicators.
 
 
 ***
