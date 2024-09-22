@@ -73,13 +73,13 @@ the arts and humanities (ACAH) have a key role to play in their delivery."*
 p4, https://co2re.org/wp-content/uploads/2024/06/Final-Text-Artists-Arts-and-Humanities-Initiative-27062024.pdf
 
 ***
-## Encouraging collaboration between the arts and climate science via Story Maps
+## Encouraging collaboration between the arts and climate science via story maps
 
 We are really interested in supporting students feature their visualisations in a story map, sometimes also known as a scrollytelling article. 
 
 Story maps combine maps, narrative text, images and multimedia into interactive, visual narratives. Story maps are particularly good at communicating scientific data to a citizen audience and creating personalised storytelling through user interaction. You can find some examples of story maps in the gallery below and on our topic wiki pages.  
 
-Story maps would be a brilliant way to create the opportunity for group work with the OU digital arts community, and get students learning from each other the skills of being better scientific communicators.
+Story maps would be a brilliant way to create the opportunity for group work with the OU digital arts community, and getting students learning from each other across disciplines the skills of being better scientific communicators.
 
 
 ***
