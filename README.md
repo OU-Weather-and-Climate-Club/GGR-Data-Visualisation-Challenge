@@ -21,7 +21,7 @@ Choosing from any of the 9 areas or its associated projects as a starting point,
 - create a data visualisation that explores an area of GGR research
 - reflect on storytelling techniques for better scientific communication
 
-Submissions will be showcased by the club throughout the year in a website gallery and in individual write ups. 
+Submissions will be showcased by the club throughout the year in a website gallery, in individual write ups and on environmental days of awareness. 
 
 Submissions from beginners are just as welcome as submissions from more experienced coders! 
 
@@ -92,7 +92,7 @@ If you've never seen a story map, this gallery will give you a good sense of the
 
 - [StoryMapJs](https://storymap.knightlab.com/) is a free browser-based easy-to-use tool for creating story maps.
 
-For a tutorial to help you get started, the Digital Humanities Initiative has created this very comprehensive tutorial: 
+For a tutorial to help you get started, the Digital Humanities Initiative has created this very comprehensive tutorial 👇 
 
 - [DH Tool Refresher: StoryMapJs](https://youtu.be/YQ-W28Wq5LU?si=U9B1T2XyWCPFvYWo)
 
@@ -114,7 +114,7 @@ For a tutorial to help you get started, the Digital Humanities Initiative has cr
 
 Since a lot of the topics are connected to restoring ecosystems to be healthy carbon sinks, which have special days of awareness (mainly in the summer) we could do write ups showcasing visualisations and story maps on those days. 
 
-Here are some possible dates (with some topics offering more choice than others):
+Here are some possible dates (some topics offer more choice than others!):
 
 Topic: **Peatlands**
 - Bog Day, 4th Sunday of July 
@@ -137,7 +137,7 @@ Topic: **Agriculture**
 
 Topic: **Direct Air Capture**
 
-it turns out there isn't an International Direct C02 Air Capture Day! but maybe these might work
+it turns out there isn't an International Direct C02 Air Capture Day! but these might work
 
 - UN World Environment Day, 5th June 2025
 - Earth Day, 22nd April 2025
