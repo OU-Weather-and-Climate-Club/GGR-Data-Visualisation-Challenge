@@ -1,3 +1,6 @@
+[Go to wiki](https://github.com/OU-Weather-and-Climate-Club/GGR-Data-Visualisation-Challenge/wiki)
+
+***
 # Greenhouse Gas Removals Data Visualisation Challenge
 
 ***
@@ -79,7 +82,7 @@ We are really interested in supporting students feature their visualisations in 
 
 Story maps combine maps, narrative text, images and multimedia into interactive, visual narratives. Story maps are particularly good at communicating scientific data to a citizen audience and creating personalised storytelling through user interaction. You can find some examples of story maps in the gallery below and on our topic wiki pages.  
 
-Story maps would be a brilliant way to work with the OU digital arts community, and get students learning from each other across disciplines the skills of being better scientific communicators.
+Story maps would be a brilliant way to work with the OU digital arts community, and get students learning from each other - across disciplines - the skills of being better scientific communicators.
 
 
 ***
@@ -121,7 +124,6 @@ Topic: **Peatlands**
 
 Topic: **Oceans**
 - World Seagrass Day, 1st March 2025
-- International Mud Day, 26th June 2025
 - UN Mangrove Day, 26th July 2025
 - World Oceans Day, 8th June
 
@@ -139,6 +141,7 @@ Topic: **Direct Air Capture**
 
 it turns out there isn't an International Direct C02 Air Capture Day! but these might work
 
+- Carbon Removal Day, October 2025?
 - UN World Environment Day, 5th June 2025
 - Earth Day, 22nd April 2025
 
