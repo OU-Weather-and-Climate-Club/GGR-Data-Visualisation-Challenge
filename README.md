@@ -1,4 +1,4 @@
-[Go to Getting Started Wiki](https://github.com/OU-Weather-and-Climate-Club/GGR-Data-Visualisation-Challenge/wiki)
+[Link to our Getting Started Wiki](https://github.com/OU-Weather-and-Climate-Club/GGR-Data-Visualisation-Challenge/wiki)
 
 ***
 # Greenhouse Gas Removals Data Visualisation Challenge
